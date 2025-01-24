@@ -302,9 +302,7 @@ h2.text-white {
     background-color: black;
     margin: 10px;
     border-radius: 5rem;
-}
-#dick a{
+        text-decoration: none;
     color: white;
-    padding: 40px;
-    text-decoration: none;
+
 }
