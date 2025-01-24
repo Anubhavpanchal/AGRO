@@ -1,5 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
-  // // File upload and drag & drop interactions
+ // File upload and drag & drop interactions
   // const dropArea = document.getElementById('dropArea');
   // const fileInput = document.createElement('input');
   // fileInput.type = 'file';
