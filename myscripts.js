@@ -1,13 +1,13 @@
 document.addEventListener('DOMContentLoaded', function() {
-  // File upload and drag & drop interactions
-  const dropArea = document.getElementById('dropArea');
-  const fileInput = document.createElement('input');
-  fileInput.type = 'file';
-  fileInput.multiple = true;
-  fileInput.style.display = 'none';
-  dropArea.appendChild(fileInput);
+  // // File upload and drag & drop interactions
+  // const dropArea = document.getElementById('dropArea');
+  // const fileInput = document.createElement('input');
+  // fileInput.type = 'file';
+  // fileInput.multiple = true;
+  // fileInput.style.display = 'none';
+  // dropArea.appendChild(fileInput);
 
-  let uploadedImages = []; // Store Base64 strings of images
+  // let uploadedImages = []; // Store Base64 strings of images
 
   // Handle click to trigger file input
   dropArea.addEventListener('click', () => {
